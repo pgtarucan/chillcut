@@ -1,0 +1,4 @@
+1. Fix page 49 of 50 (table details on Total Project Cost)
+2. Salary Rates Page 2 of 23. (Totals and working days)
+3. Page 10 of 23 (Magkaiba yung amounts ng income based sa salary rates ng Page 2)
+4. Walang cost of registration? License and registrations.
